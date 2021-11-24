@@ -8,4 +8,4 @@ This Photon PUN project demonstrates how you can use PUN Interest Groups to impl
 - This Area of Interest implementation works with at most 8 players in theory.
 - Kyle Robot asset: https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
 - You are free to use any idea or code from this project with or without modifications.
-- If you need Area of Interest in your game, you may want to consider using Photon Fusion or Photon Bolt which has built-in Area of Interest support.
+- If you need Area of Interest in your game, you may want to consider using Photon Fusion or Photon Bolt which have built-in Area of Interest support.
