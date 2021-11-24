@@ -1,4 +1,4 @@
-This Photon PUN project demonstrates how you can use PUN Interest Groups to implement a simple Area of Interest feature (reference: https://doc.photonengine.com/zh-cn/pun/current/gameplay/interestgroups).
+This Photon PUN project demonstrates how you can use PUN Interest Groups to implement a simple Area of Interest feature (reference: https://doc.photonengine.com/pun/current/gameplay/interestgroups).
 
 - Find Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset and fill the App Id PUN field with your Pun App ID created on Photon Dashboard (https://id.photonengine.com/).
 - You can run this project from the Editor by entering Play Mode from Assets/Scenes/MainMenu scene.
